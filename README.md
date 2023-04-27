@@ -2,7 +2,6 @@
 Bit vector implementation
 
 ## Example use
-
 ```BitVector bitVector = new BitVector(50);
 
 bitVector.setBit(3); //set true on index = 3
