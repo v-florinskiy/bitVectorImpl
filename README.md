@@ -1,7 +1,7 @@
 # bitVectorImpl
 Bit vector implementation
 
-##Example use
+## Example use
 BitVector bitVector = new BitVector(50);
 bitVector.setBit(3); //set true on index = 3
 bitVector.unsetBit(4); //set false on index = 4
